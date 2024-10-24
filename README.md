@@ -1,4 +1,4 @@
-# SahAI
+![IMG_20241024_174508](https://github.com/user-attachments/assets/ae1adccf-6340-4e27-95e1-9b57131da75c)# SahAI
 
 As a customer of OUAF Edge App, do you have any functional questions while working on a flow?
 Are you tired of writing complex SQL queries to fetch data?
@@ -12,3 +12,6 @@ Say Hi to our “Sahay”, an AI-powered chatbot that revolutionizes the way use
 Enhancing Productivity & Satisfaction: By reducing the need for manual intervention, Sahay improves customer satisfaction, increases operational efficiency, and lightens the load on support teams.
 
 Sahay isn't just a chatbot; it's a game-changer. It transforms the OUAF Edge App user experience, combining AI-driven innovation with human-like interaction to create a support system that's as powerful as it is intuitive.
+
+RAG Architecture
+![image](https://github.com/user-attachments/assets/fff23930-39b1-4344-9f29-d4784dd90f4d)
