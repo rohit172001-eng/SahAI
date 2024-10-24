@@ -1,4 +1,4 @@
-![IMG_20241024_174508](https://github.com/user-attachments/assets/ae1adccf-6340-4e27-95e1-9b57131da75c)# SahAI
+# SahAI
 
 As a customer of OUAF Edge App, do you have any functional questions while working on a flow?
 Are you tired of writing complex SQL queries to fetch data?
